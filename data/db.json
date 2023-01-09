@@ -1,0 +1,17 @@
+{
+    "blogs": [
+        { 
+        "title": "My new website", 
+        "body": "lorem ipsum...", 
+        "author": "dedine", 
+        "id": 1 
+        },
+
+        { 
+        "title": "Welcome party!", 
+        "body": "lorem ipsum...", 
+        "author": "yoshi", 
+        "id": 1 
+        }
+    ]
+}
