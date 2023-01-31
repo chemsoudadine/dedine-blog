@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dedine-blog/static/css/main.695147b8.css",
+    "main.js": "/dedine-blog/static/js/main.f4ddea7c.js",
+    "index.html": "/dedine-blog/index.html",
+    "main.695147b8.css.map": "/dedine-blog/static/css/main.695147b8.css.map",
+    "main.f4ddea7c.js.map": "/dedine-blog/static/js/main.f4ddea7c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.695147b8.css",
+    "static/js/main.f4ddea7c.js"
+  ]
+}
